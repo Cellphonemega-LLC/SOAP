@@ -1,2 +1,2 @@
 # SOAP
-[Spoofable Operations and Anonymity Proxy](screenshot.png)
+![Spoofable Operations and Anonymity Proxy](screenshot.png)
